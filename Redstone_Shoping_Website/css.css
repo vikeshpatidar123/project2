@@ -1,0 +1,31 @@
+﻿.-gillsans- {
+    font-family: 'Gill Sans', 'Gill Sans MT';
+}
+
+.-red- {
+    color: red;
+}
+
+.-topbar- {
+    margin-bottom: 1em;
+}
+
+.-btn-grey- {
+    color: black;
+    background-color: #ddd;
+}
+
+.-news- {
+    background-color: #ddd;
+    padding: 1em;
+    border-radius: 10px;
+}
+
+.-newsdate- {
+    color: #555;
+    float: right;
+}
+
+body {
+    padding: 0px 1em;
+}
